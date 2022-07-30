@@ -23,12 +23,7 @@ Couple custom dark themes for inspiration.
 2. `#000`, `#fff` and `#50FC00`:
 
 ![Theme2](https://i.imgur.com/b6rjiQE.png?2)
-   
-## Installation
 
-1. `git clone https://github.com/madzadev/landing-page.git`
-
-2. Open `index.html`. That's it!
 
 ## License
 
